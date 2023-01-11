@@ -1,6 +1,6 @@
 <?php
 
-namespace Waxwink\Orbis\EventDispatcher;
+namespace Weebel\Dispatcher;
 
 use Psr\EventDispatcher\EventDispatcherInterface as PsrEventDispatcherInterface;
 use Weebel\Contracts\Bootable;
